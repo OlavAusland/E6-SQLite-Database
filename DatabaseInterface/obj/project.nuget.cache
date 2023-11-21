@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Le5bIROaDkqzz42cdw2SA62zhoF69PFC6mb/c72k3sDrhTb3upCb4p3Dkvlq2y+QAw/rI8B9VUMgBLNkD5CMXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OlavA\\Documents\\Coding Projects\\C#\\Interface\\DatabaseInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OlavA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\OlavA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\OlavA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

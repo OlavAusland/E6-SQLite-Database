@@ -1,0 +1,11 @@
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\bin\Debug\net6.0\DatabaseInterface.deps.json
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\bin\Debug\net6.0\DatabaseInterface.dll
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\bin\Debug\net6.0\DatabaseInterface.pdb
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfoInputs.cache
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfo.cs
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.csproj.CoreCompileInputs.cache
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.dll
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\refint\DatabaseInterface.dll
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\DatabaseInterface.pdb
+C:\Users\OlavA\Documents\Coding Projects\C#\Interface\obj\Debug\net6.0\ref\DatabaseInterface.dll
